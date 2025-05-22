@@ -1,1 +1,4 @@
 Weather data logged successfully.
+Weather data logged successfully.
+Weather data logged successfully.
+Weather data logged successfully.
